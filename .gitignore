@@ -1,0 +1,28 @@
+# Environment variables
+.env
+*.env
+
+# Python virtual environments
+venv/
+env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache/
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Build / distribution files
+build/
+dist/
+*.egg-info/
+
+# Operating system files
+.DS_Store
+Thumbs.db
